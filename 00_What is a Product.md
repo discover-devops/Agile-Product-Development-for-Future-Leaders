@@ -11,7 +11,7 @@
 
 ---
 
-# 🛠 **What is a Project?**
+# **What is a Project?**
 
 * A **Project** is a **temporary endeavor** with a defined **start date, end date, and objective**.
 * Projects are about **executing tasks** — they start, finish, and deliver something (like a feature, a campaign, or a release).
