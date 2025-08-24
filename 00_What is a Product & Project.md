@@ -54,4 +54,66 @@ Let’s apply this to Amazon
 * Once these projects are completed, Amazon (the product) incorporates them and continues to grow.
 
 ---
+---
+
+**Difference between Product vs Project**
+
+<img width="1409" height="669" alt="image" src="https://github.com/user-attachments/assets/3206f740-f0ac-4142-97f4-4ba2a391d9fd" />
+
+---
+
+#  **What is a Product?**
+
+* A **Product** is anything that **solves a problem or creates value** for users.
+* It can be **physical** (a car, a phone) or **digital** (Amazon app, Netflix, Google Pay).
+* A product is **continuous** → it keeps evolving with user needs, market trends, and competition.
+* Success is measured by: **customer adoption, satisfaction, revenue, growth**.
+
+ **Simple line:** *A product lives as long as people use it and find value in it.*
+
+---
+
+# 🛠 **What is a Project?**
+
+* A **Project** is a **temporary initiative** to deliver a specific outcome.
+* It has a **start date, end date, and fixed scope**.
+* Projects are often **vehicles** to improve or create a product.
+* Success is measured by: **on-time, on-budget delivery**.
+
+ **Simple line:** *A project ends when the goal is delivered. A product continues even after many projects finish.*
+
+---
+
+#  **Key Differences**
+
+| Aspect         | Product                                      | Project                               |
+| -------------- | -------------------------------------------- | ------------------------------------- |
+| **Definition** | Provides value to users; lives in the market | Temporary effort to deliver something |
+| **Lifecycle**  | Continuous, evolves with feedback            | Has start and end date                |
+| **Focus**      | Customer needs, business value               | Execution, delivery of tasks          |
+| **Ownership**  | Product Manager (vision, strategy)           | Project Manager (execution, delivery) |
+| **Success**    | Adoption, growth, satisfaction               | Timely, within budget, meets scope    |
+
+---
+
+#  **Example – Amazon**
+
+* **Amazon.com (Product):**
+
+  * Vision: “Make online shopping fast and convenient.”
+  * Evolves: Books → Electronics → Prime → AWS → Alexa.
+  * Continuous journey — still evolving.
+
+* **Amazon Projects:**
+
+  * Building “1-Click Checkout” (a project).
+  * Launching “Prime Video” (a project).
+  * Setting up AWS Data Centers (a project).
+
+All these **projects feed into Amazon (the product)**, but the **product continues long after projects finish**.
+
+---
+
+
+---
 
