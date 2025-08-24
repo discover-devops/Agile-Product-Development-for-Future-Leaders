@@ -4,6 +4,7 @@
 #  **Key Roles in Product Development**
 
 
+<img width="1173" height="449" alt="image" src="https://github.com/user-attachments/assets/b37d9c1b-ca3a-4d34-b2d7-ab751a2b0aba" />
 
 
 ### 1️ **Product Manager (PM)** – *The Visionary*
