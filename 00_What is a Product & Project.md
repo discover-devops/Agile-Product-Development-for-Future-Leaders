@@ -73,7 +73,7 @@ Let’s apply this to Amazon
 
 ---
 
-# 🛠 **What is a Project?**
+#  **What is a Project?**
 
 * A **Project** is a **temporary initiative** to deliver a specific outcome.
 * It has a **start date, end date, and fixed scope**.
