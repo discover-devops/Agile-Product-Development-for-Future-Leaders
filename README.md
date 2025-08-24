@@ -9,9 +9,9 @@ Agile Product Development for Future Leaders
 
 ---
 
-##  Course Structure (16 Hrs Total)
+##  Course Structure 
 
-### **Module 1: Foundations of Product Development (2 Hrs)**
+### **Module 1: Foundations of Product Development **
 
 * What is a product? Difference between product & project
 * Product lifecycle: Idea → Build → Launch → Scale → Retire
@@ -20,7 +20,7 @@ Agile Product Development for Future Leaders
 
 ---
 
-### **Module 2: Introduction to Agile (2 Hrs)**
+### **Module 2: Introduction to Agile **
 
 * Why Agile? Waterfall vs Agile
 * Agile Manifesto (values & principles explained with stories)
@@ -29,7 +29,7 @@ Agile Product Development for Future Leaders
 
 ---
 
-### **Module 3: Agile Frameworks Deep Dive (3 Hrs)**
+### **Module 3: Agile Frameworks Deep Dive **
 
 * **Scrum**
 
@@ -43,7 +43,7 @@ Agile Product Development for Future Leaders
 
 ---
 
-### **Module 4: Product Strategy & Roadmapping (3 Hrs)**
+### **Module 4: Product Strategy & Roadmapping **
 
 * Defining Product Vision & Mission
 * Customer journey mapping & user personas
@@ -53,7 +53,7 @@ Agile Product Development for Future Leaders
 
 ---
 
-### **Module 5: Agile Product Execution (2 Hrs)**
+### **Module 5: Agile Product Execution **
 
 * MVP (Minimum Viable Product) vs MMP (Minimum Marketable Product)
 * Release planning & Agile metrics (velocity, burn-down, lead time)
@@ -62,7 +62,7 @@ Agile Product Development for Future Leaders
 
 ---
 
-### **Module 6: Scaling & Advanced Agile (2 Hrs)**
+### **Module 6: Scaling & Advanced Agile **
 
 * Scaling frameworks (SAFe, LeSS, Spotify model)
 * Product ownership at scale (multiple teams, complex products)
