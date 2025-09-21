@@ -1,94 +1,93 @@
-# Agile-Product-Development-for-Future-Leaders
+
+
+---
+
+# Agile Product Development for Future Leaders
+
+---
+
+## Course Title
+
 Agile Product Development for Future Leaders
 
 ---
 
-##  Course Title
+## Course Structure
 
-**“Agile Product Development for Future Leaders”**
+### Module 1: Foundations of Product Development
 
----
-
-##  Course Structure 
-
-### **Module 1: Foundations of Product Development **
-
-* What is a product? Difference between product & project
-* Product lifecycle: Idea → Build → Launch → Scale → Retire
-* Case examples: Zomato, Swiggy, Paytm, Amazon
-* The role of a Product Manager
+* What is a product and how is it different from a project
+* Product lifecycle stages from idea to retirement
+* Case examples discussed including Zomato and Swiggy
+* Role of a Product Manager and related team roles
 
 ---
 
-### **Module 2: Introduction to Agile **
+### Module 2: Introduction to Agile
 
-* Why Agile? Waterfall vs Agile
-* Agile Manifesto (values & principles explained with stories)
-* Agile vs Scrum vs Kanban vs Lean — differences in simple terms
-* How Agile is applied in startups vs corporates
-
----
-
-### **Module 3: Agile Frameworks Deep Dive **
-
-* **Scrum**
-
-  * Roles (PO, SM, Dev team)
-  * Ceremonies (Sprint planning, Daily stand-up, Review, Retrospective)
-  * Artifacts (Product backlog, Sprint backlog, Increment)
-* **Kanban**
-
-  * Visual board, WIP limits, flow efficiency
-* Case activity: Run a mock Sprint with sticky notes (product idea: food delivery app)
+* Why Agile is needed compared to Waterfall
+* Agile Manifesto values and principles with examples
+* Difference between Agile Scrum Kanban and Lean
+* How Agile is applied in startups versus corporates
 
 ---
 
-### **Module 4: Product Strategy & Roadmapping **
+### Module 3: Agile Frameworks Deep Dive
 
-* Defining Product Vision & Mission
-* Customer journey mapping & user personas
-* Building a roadmap: themes, epics, features, user stories
-* Prioritization techniques (MoSCoW, RICE, Kano Model)
-* Hands-on activity: Write user stories & prioritize backlog
+* Scrum
 
----
+  * Roles including Product Owner Scrum Master and Development Team
+  * Ceremonies such as Sprint Planning Daily Standup Review and Retrospective
+  * Artifacts like Product Backlog Sprint Backlog and Increment
+* Kanban
 
-### **Module 5: Agile Product Execution **
-
-* MVP (Minimum Viable Product) vs MMP (Minimum Marketable Product)
-* Release planning & Agile metrics (velocity, burn-down, lead time)
-* Agile tools overview (Jira, Trello, Azure Boards, Asana)
-* Case: Why some products fail despite Agile (real-world examples)
+  * Visual board Work in Progress limits and flow efficiency
+* Jira comparison between Scrum and Kanban
 
 ---
 
-### **Module 6: Scaling & Advanced Agile **
+### Module 4: Product Strategy and Roadmapping
 
-* Scaling frameworks (SAFe, LeSS, Spotify model)
-* Product ownership at scale (multiple teams, complex products)
-* Role of leadership in Agile transformation
-* Group discussion: How would you scale an EdTech or FinTech product?
-
----
-
-### **Module 7**
-
-* Students work in groups as **Product Teams**
-* Scenario: Build a product idea (e.g., FinTech app for students)
-* Define product vision, roadmap, backlog
-* Run a mini Agile sprint with mock planning, daily, review, retro
-* Present outcome as a “Sprint Review” to class (like stakeholders)
+* Product vision and direction
+* Minimum Viable Product versus Minimum Marketable Product
+* Real-world decision making using MVP models
 
 ---
 
-##  Key Outcomes
+### Module 5: Agile Product Execution
 
-By the end of 16 hours, students will:
-
-* Understand **how modern products are built** end-to-end
-* Be comfortable with **Agile frameworks** (Scrum, Kanban)
-* Know how to **write user stories, prioritize, and plan sprints**
-* Experience a **real Agile simulation** to practice teamwork & leadership
-* Be prepared to **apply product thinking in internships and jobs**
+* Release planning using Agile
+* Agile metrics including velocity burndown and lead time
+* Case studies on product failures and Agile misuse
+* Discussion on product market fit and risk analysis
 
 ---
+
+### Module 6: Scaling and Advanced Agile
+
+* Overview of popular scaling frameworks including SAFe LeSS and the Spotify model
+* Real-world examples of scaling Agile in startups and large companies
+* Group discussion on Agile in different product contexts
+
+---
+
+### Module 7: Final Project Simulation
+
+* To be conducted as a group Agile simulation
+* Students form product teams to plan and present a product idea
+* Includes sprint planning daily standup and final sprint review
+
+---
+
+## Key Outcomes
+
+By the end of this course students will
+
+* Understand the foundations of product development
+* Be familiar with Agile frameworks and ceremonies
+* Know how to write backlogs and prioritize features
+* Apply Agile principles in simulated team environments
+* Be prepared to bring product thinking into real-world scenarios
+
+---
+
